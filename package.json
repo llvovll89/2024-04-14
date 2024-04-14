@@ -1,0 +1,20 @@
+{
+  "name": "2024-04-14",
+  "version": "1.0.0",
+  "description": "* git 공부용 / spa 제작용\r --- git 코드정리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bulid": "webpack --mode=production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0"
+  }
+}
